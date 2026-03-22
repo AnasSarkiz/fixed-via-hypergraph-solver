@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="521" viewBox="0 0 2.345195 2.369411">
+<rect x="0" y="0" width="2.345195" height="2.369411" fill="white"/>
+<polyline points="0.791556,1.174375 0.824433,1.174375 1.143469,1.493411" fill="none" stroke="#4d7fc4" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1.587689,0.625 1.870195,0.907506 1.870195,1.333785 1.309569,1.894411 0.87359,1.894411 0.625,1.645821" fill="none" stroke="#4d7fc4" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1.117573,0.795276 1.150408,0.795276 1.469195,1.114063" fill="none" stroke="#4d7fc4" stroke-width="0.15" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="0.791556" cy="1.174375" r="0.15" fill="rgba(231, 76, 60, 1)" stroke="#e74c3c" stroke-width="0.075"/>
+<circle cx="0.791556" cy="1.174375" r="0.06" fill="#ffffff"/>
+<circle cx="1.143469" cy="1.493411" r="0.15" fill="rgba(231, 76, 60, 1)" stroke="#e74c3c" stroke-width="0.075"/>
+<circle cx="1.143469" cy="1.493411" r="0.06" fill="#ffffff"/>
+<circle cx="1.587689" cy="0.625" r="0.15" fill="rgba(46, 204, 113, 1)" stroke="#2ecc71" stroke-width="0.075"/>
+<circle cx="1.587689" cy="0.625" r="0.06" fill="#ffffff"/>
+<circle cx="0.625" cy="1.645821" r="0.15" fill="rgba(46, 204, 113, 1)" stroke="#2ecc71" stroke-width="0.075"/>
+<circle cx="0.625" cy="1.645821" r="0.06" fill="#ffffff"/>
+<circle cx="1.117573" cy="0.795276" r="0.15" fill="rgba(241, 196, 15, 1)" stroke="#f1c40f" stroke-width="0.075"/>
+<circle cx="1.117573" cy="0.795276" r="0.06" fill="#ffffff"/>
+<circle cx="1.469195" cy="1.114063" r="0.15" fill="rgba(241, 196, 15, 1)" stroke="#f1c40f" stroke-width="0.075"/>
+<circle cx="1.469195" cy="1.114063" r="0.06" fill="#ffffff"/>
+</svg>
