@@ -1,7 +1,5 @@
 export * from "./type"
-export * from "./ViaGraphSolver/defaultTopology"
 export * from "./ViaGraphSolver/ViaGraphSolver"
-export * from "./ViaGraphSolver/via-graph-generator/createConvexViaGraphFromXYConnections"
 export * from "./ViaGraphSolver/via-graph-generator/createViaGraphWithConnections"
 export * from "./ViaGraphSolver/via-graph-generator/generateConvexViaTopologyRegions"
 export * from "./ViaGraphSolver/via-graph-generator/generateViaTopologyRegions"

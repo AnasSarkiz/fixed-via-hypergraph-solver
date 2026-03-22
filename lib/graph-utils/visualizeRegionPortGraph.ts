@@ -16,6 +16,7 @@ export const visualizeViaGraph = (
   const graphics = {
     arrows: [],
     circles: [],
+    infiniteLines: [],
     title: "Via Graph",
     lines: [],
     points: [],
