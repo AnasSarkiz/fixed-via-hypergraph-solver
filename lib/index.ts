@@ -1,5 +1,6 @@
 export * from "./type"
 export * from "./FixedViaHypergraphSolver/FixedViaHypergraphSolver"
 export * from "./FixedViaHypergraphSolver/via-graph-generator/createViaGraphWithConnections"
+export * from "./FixedViaHypergraphSolver/via-graph-generator/createConvexViaGraphFromXYConnections"
 export * from "./FixedViaHypergraphSolver/via-graph-generator/generateConvexViaTopologyRegions"
 export * from "./FixedViaHypergraphSolver/via-graph-generator/generateViaTopologyRegions"
