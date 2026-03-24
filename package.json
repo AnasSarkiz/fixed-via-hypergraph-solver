@@ -14,7 +14,9 @@
     "generate:baked-via-tiles": "bun scripts/generate-baked-via-tiles.ts",
     "generate:via-assets": "bun scripts/generate-via-assets.ts",
     "format": "biome format --write .",
-    "format:check": "biome format ."
+    "format:check": "biome format .",
+    "benchmark:dataset02": "bun scripts/benchmark-dataset02.ts",
+    "benchmark:dataset02:smoke": "bun scripts/benchmark-dataset02.ts --limit=20 --concurrency=2"
   },
   "dependencies": {
     "@tscircuit/find-convex-regions": "^0.1.3",
