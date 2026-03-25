@@ -8,11 +8,11 @@
     "allowJs": true,
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
     "verbatimModuleSyntax": true,
     "noEmit": true,
-    "baseUrl": ".",
     "paths": {
-      "lib/*": ["lib/*"]
+      "lib/*": ["./lib/*"]
     },
     "strict": true,
     "skipLibCheck": true,
